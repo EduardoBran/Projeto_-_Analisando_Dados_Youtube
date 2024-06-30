@@ -1,0 +1,196 @@
+country,Human_Development_Groups,IDH_2021
+Afghanistan,Low,0.478
+Angola,Medium,0.586
+Albania,High,0.796
+Andorra,Very High,0.858
+United Arab Emirates,Very High,0.911
+Argentina,Very High,0.842
+Armenia,High,0.759
+Antigua and Barbuda,High,0.788
+Australia,Very High,0.951
+Austria,Very High,0.916
+Azerbaijan,High,0.745
+Burundi,Low,0.426
+Belgium,Very High,0.937
+Benin,Low,0.525
+Burkina Faso,Low,0.449
+Bangladesh,Medium,0.661
+Bulgaria,High,0.795
+Bahrain,Very High,0.875
+Bahamas,Very High,0.812
+Bosnia and Herzegovina,High,0.78
+Belarus,Very High,0.808
+Belize,Medium,0.683
+Bolivia,Medium,0.692
+Brazil,High,0.754
+Barbados,High,0.79
+Brunei,Very High,0.829
+Bhutan,Medium,0.666
+Botswana,Medium,0.693
+Central African Republic,Low,0.404
+Canada,Very High,0.936
+Switzerland,Very High,0.962
+Chile,Very High,0.855
+China,High,0.768
+Ivory Coast,Medium,0.55
+Cameroon,Medium,0.576
+The Democratic Republic of the Congo,Low,0.479
+Congo,Medium,0.571
+Colombia,High,0.752
+Comoros,Medium,0.558
+Cabo Verde,Medium,0.662
+Costa Rica,Very High,0.809
+Cuba,High,0.764
+Cyprus,Very High,0.896
+Czechia,Very High,0.889
+Germany,Very High,0.942
+Djibouti,Low,0.509
+Dominica,High,0.72
+Denmark,Very High,0.948
+Dominican Republic,High,0.767
+Algeria,High,0.745
+Ecuador,High,0.74
+Egypt,High,0.731
+Eritrea,Low,0.492
+Spain,Very High,0.905
+Estonia,Very High,0.89
+Ethiopia,Low,0.498
+Finland,Very High,0.94
+Fiji,High,0.73
+France,Very High,0.903
+Micronesia,Medium,0.628
+Gabon,High,0.706
+United Kingdom,Very High,0.929
+Georgia,Very High,0.802
+Ghana,Medium,0.632
+Guinea,Low,0.465
+Gambia,Low,0.5
+Guinea-Bissau,Low,0.483
+Equatorial Guinea,Medium,0.596
+Greece,Very High,0.887
+Grenada,High,0.795
+Guatemala,Medium,0.627
+Guyana,High,0.714
+Hong Kong,Very High,0.952
+Honduras,Medium,0.621
+Croatia,Very High,0.858
+Haiti,Low,0.535
+Hungary,Very High,0.846
+Indonesia,High,0.705
+India,Medium,0.633
+Ireland,Very High,0.945
+Iran,High,0.774
+Iraq,Medium,0.686
+Iceland,Very High,0.959
+Israel,Very High,0.919
+Italy,Very High,0.895
+Jamaica,High,0.709
+Jordan,High,0.72
+Japan,Very High,0.925
+Kazakhstan,Very High,0.811
+Kenya,Medium,0.575
+Kyrgyzstan,Medium,0.692
+Cambodia,Medium,0.593
+Kiribati,Medium,0.624
+Saint Kitts and Nevis,High,0.777
+South Korea,Very High,0.925
+Kuwait,Very High,0.831
+Lao,Medium,0.607
+Lebanon,High,0.706
+Liberia,Low,0.481
+Libya,High,0.718
+Saint Lucia,High,0.715
+Liechtenstein,Very High,0.935
+Sri Lanka,High,0.782
+Lesotho,Low,0.514
+Lithuania,Very High,0.875
+Luxembourg,Very High,0.93
+Latvia,Very High,0.863
+Morocco,Medium,0.683
+Monaco,Very High,0.956
+Moldova,High,0.767
+Madagascar,Low,0.501
+Maldives,High,0.747
+Mexico,High,0.758
+Marshall Islands,Medium,0.639
+North Macedonia,High,0.77
+Mali,Low,0.428
+Malta,Very High,0.918
+Myanmar,Medium,0.585
+Montenegro,Very High,0.832
+Mongolia,High,0.739
+Mozambique,Low,0.446
+Mauritania,Medium,0.556
+Mauritius,Very High,0.802
+Malawi,Low,0.512
+Malaysia,Very High,0.803
+Namibia,Medium,0.615
+Niger,Low,0.4
+Nigeria,Low,0.535
+Nicaragua,Medium,0.667
+Netherlands,Very High,0.941
+Norway,Very High,0.961
+Nepal,Medium,0.602
+Nauru,High,0.721
+New Zealand,Very High,0.937
+Oman,Very High,0.816
+Pakistan,Low,0.544
+Panama,Very High,0.805
+Peru,High,0.762
+Philippines,Medium,0.699
+Palau,High,0.767
+Papua New Guinea,Medium,0.558
+Poland,Very High,0.876
+North Korea,Low,0.733
+Portugal,Very High,0.866
+Paraguay,High,0.717
+"Palestine, State of",High,0.715
+Qatar,Very High,0.855
+Romania,Very High,0.821
+Russian Federation,Very High,0.822
+Rwanda,Low,0.534
+Saudi Arabia,Very High,0.875
+Sudan,Low,0.508
+Senegal,Low,0.511
+Singapore,Very High,0.939
+Solomon Islands,Medium,0.564
+Sierra Leone,Low,0.477
+El Salvador,Medium,0.675
+San Marino,Very High,0.853
+Somalia,Low,0.361
+Serbia,Very High,0.802
+South Sudan,Low,0.385
+Sao Tome and Principe,Medium,0.618
+Suriname,High,0.73
+Slovakia,Very High,0.848
+Slovenia,Very High,0.918
+Sweden,Very High,0.947
+Eswatini,Medium,0.597
+Seychelles,High,0.785
+Syrian Arab Republic,Medium,0.577
+Chad,Low,0.394
+Togo,Low,0.539
+Thailand,Very High,0.8
+Tajikistan,Medium,0.685
+Turkmenistan,High,0.745
+Timor-Leste,Medium,0.607
+Tonga,High,0.745
+Trinidad and Tobago,Very High,0.81
+Tunisia,High,0.731
+Turkey,Very High,0.838
+Tuvalu,Medium,0.641
+Tanzania,Low,0.549
+Uganda,Low,0.525
+Ukraine,High,0.773
+Uruguay,Very High,0.809
+United States,Very High,0.921
+Uzbekistan,High,0.727
+Saint Vincent and the Grenadines,High,0.751
+Venezuela,Medium,0.691
+Vietnam,High,0.703
+Vanuatu,Medium,0.607
+Samoa,High,0.707
+Yemen,Low,0.455
+South Africa,High,0.713
+Zambia,Medium,0.565
+Zimbabwe,Medium,0.593
