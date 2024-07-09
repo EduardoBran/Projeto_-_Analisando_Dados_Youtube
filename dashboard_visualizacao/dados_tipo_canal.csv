@@ -1,0 +1,389 @@
+pais,tipo_do_canal,contagem
+Afghanistan,Comedy,1
+Afghanistan,Entertainment,2
+Afghanistan,Music,1
+Afghanistan,People,1
+Albania,Entertainment,1
+Algeria,Sports,1
+Andorra,Entertainment,1
+Andorra,Music,3
+Andorra,People,1
+Angola,Entertainment,1
+Angola,Games,1
+Angola,Music,1
+Argentina,Comedy,2
+Argentina,Education,2
+Argentina,Entertainment,12
+Argentina,Games,4
+Argentina,Music,10
+Argentina,News,1
+Argentina,People,1
+Argentina,Sports,1
+Armenia,News,2
+Australia,Comedy,2
+Australia,Education,1
+Australia,Entertainment,4
+Australia,Games,5
+Australia,Music,1
+Australia,News,2
+Australia,People,5
+Australia,Sports,2
+Australia,Travel,1
+Australia,Unknown,1
+Austria,Howto,1
+Austria,Sports,2
+Azerbaijan,Music,1
+Azerbaijan,News,1
+Bangladesh,Comedy,1
+Bangladesh,Entertainment,1
+Bangladesh,News,2
+Bangladesh,People,1
+Barbados,Music,1
+Belarus,Games,2
+Belgium,Autos,1
+Belgium,Entertainment,1
+Belgium,Music,1
+Belgium,Sports,1
+Bolivia,Comedy,2
+Bolivia,Entertainment,1
+Bolivia,Music,3
+Bolivia,People,2
+Bolivia,Sports,1
+Bosnia and Herzegovina,Entertainment,1
+Bosnia and Herzegovina,People,1
+Brazil,Autos,1
+Brazil,Comedy,10
+Brazil,Education,7
+Brazil,Entertainment,52
+Brazil,Film,5
+Brazil,Games,15
+Brazil,Music,33
+Brazil,News,2
+Brazil,Nonprofit,1
+Brazil,People,23
+Brazil,Shows,1
+Brazil,Sports,18
+Brazil,Tech,8
+Brazil,Travel,6
+Brazil,Unknown,3
+Bulgaria,Music,5
+Bulgaria,People,4
+Bulgaria,Sports,2
+Bulgaria,Tech,1
+Bulgaria,Unknown,1
+Cameroon,Music,3
+Canada,Autos,1
+Canada,Comedy,1
+Canada,Education,2
+Canada,Entertainment,4
+Canada,Film,1
+Canada,Howto,1
+Canada,Music,4
+Canada,People,3
+Canada,Sports,1
+Chile,Entertainment,1
+Chile,Games,3
+China,Entertainment,2
+China,People,1
+Colombia,Comedy,1
+Colombia,Education,1
+Colombia,Entertainment,2
+Colombia,Games,1
+Colombia,Howto,1
+Colombia,Music,1
+Colombia,People,2
+Congo,Education,1
+Congo,Entertainment,1
+Congo,Howto,1
+Congo,Music,2
+Congo,News,1
+Congo,Nonprofit,1
+Cooks Islands,People,3
+Cooks Islands,Travel,1
+Costa Rica,People,2
+Croatia,Entertainment,2
+Cyprus,Film,2
+Cyprus,Howto,1
+Czech Republic,Howto,1
+Czech Republic,Music,1
+Czech Republic,People,1
+Denmark,Comedy,2
+Denmark,People,2
+Dominica,Entertainment,1
+Ecuador,Comedy,1
+Ecuador,People,4
+Ecuador,Tech,1
+Egypt,Entertainment,6
+Egypt,Games,1
+El Salvador,Entertainment,1
+El Salvador,Games,1
+Estonia,Sports,1
+Finland,Entertainment,1
+Finland,Film,1
+Finland,Games,2
+France,Autos,2
+France,Comedy,1
+France,Entertainment,4
+France,Film,1
+France,Games,1
+France,Shows,1
+France,Sports,3
+Germany,Animals,3
+Germany,Autos,1
+Germany,Comedy,6
+Germany,Education,2
+Germany,Entertainment,5
+Germany,Film,3
+Germany,Games,1
+Germany,Music,4
+Germany,People,13
+Germany,Shows,1
+Germany,Sports,7
+Germany,Unknown,1
+Ghana,Sports,1
+Greece,Comedy,1
+Greece,Entertainment,7
+Greece,Music,3
+Greece,People,1
+Greece,Sports,1
+Hong Kong,Games,1
+Hong Kong,People,1
+Hungary,Education,1
+Hungary,Games,2
+Hungary,Music,2
+Hungary,People,1
+Iceland,Entertainment,2
+Iceland,Howto,1
+Iceland,News,2
+India,Animals,3
+India,Autos,7
+India,Comedy,22
+India,Education,59
+India,Entertainment,45
+India,Film,19
+India,Games,11
+India,Howto,2
+India,Music,12
+India,News,5
+India,Nonprofit,2
+India,People,31
+India,Sports,2
+India,Tech,8
+Indonesia,Animals,1
+Indonesia,Comedy,2
+Indonesia,Education,1
+Indonesia,Entertainment,2
+Indonesia,Film,5
+Indonesia,Games,4
+Indonesia,Music,1
+Indonesia,People,5
+Indonesia,Travel,1
+Iraq,Comedy,1
+Iraq,Education,1
+Iraq,Entertainment,2
+Ireland,Film,1
+Ireland,Howto,1
+Italy,Comedy,4
+Italy,Education,2
+Italy,Entertainment,5
+Italy,Games,2
+Italy,Howto,1
+Italy,Music,5
+Italy,People,1
+Italy,Sports,1
+Jamaica,Entertainment,1
+Jamaica,Music,6
+Jamaica,People,1
+Japan,Autos,1
+Japan,Education,3
+Japan,Entertainment,4
+Japan,Games,1
+Kazakhstan,Music,1
+Korean North,Film,1
+Korean North,Games,1
+Korean North,Music,1
+Korean North,People,1
+Korean North,Tech,1
+Latvia,Comedy,2
+Latvia,Education,1
+Latvia,Howto,1
+Liechtenstein,Entertainment,2
+Liechtenstein,Film,1
+Lithuania,Comedy,1
+Lithuania,Education,3
+Lithuania,Music,1
+Lithuania,Sports,1
+Malaysia,Film,1
+Malaysia,Music,1
+Malaysia,People,1
+Mexico,Autos,1
+Mexico,Comedy,6
+Mexico,Education,3
+Mexico,Entertainment,8
+Mexico,Film,1
+Mexico,Howto,1
+Mexico,People,4
+Moldova,Comedy,1
+Moldova,Education,2
+Moldova,Entertainment,1
+Moldova,Music,3
+Moldova,News,1
+Moldova,People,1
+Moldova,Unknown,2
+Morocco,Comedy,1
+Morocco,Entertainment,1
+Morocco,Games,1
+Morocco,Howto,1
+Morocco,People,1
+Morocco,Travel,1
+Morocco,Unknown,1
+Netherlands,Autos,1
+Netherlands,Comedy,1
+Netherlands,Entertainment,1
+Netherlands,Film,2
+Netherlands,Games,1
+Netherlands,Music,7
+Netherlands,News,1
+New Zealand,Comedy,1
+New Zealand,Games,3
+New Zealand,Music,1
+New Zealand,People,1
+New Zealand,Sports,1
+New Zealand,Unknown,4
+Norway,Entertainment,1
+Norway,Games,1
+Norway,Howto,1
+Norway,Music,3
+Pakistan,Autos,1
+Pakistan,Education,2
+Pakistan,Entertainment,3
+Pakistan,People,1
+Panama,Entertainment,1
+Paraguay,Education,1
+Paraguay,Entertainment,1
+Paraguay,Music,1
+Paraguay,Sports,2
+Peru,Games,1
+Peru,Music,2
+Philippines,Education,1
+Philippines,Film,1
+Philippines,Travel,1
+Portugal,Comedy,2
+Portugal,Education,1
+Portugal,Entertainment,2
+Portugal,Film,2
+Portugal,Games,1
+Portugal,Music,2
+Portugal,People,6
+Portugal,Sports,3
+Portugal,Travel,1
+Puerto Rico,Music,5
+Romania,Education,1
+Romania,Film,1
+Romania,Music,3
+Romania,People,2
+Russia,Animals,1
+Russia,Autos,5
+Russia,Education,2
+Russia,Entertainment,1
+Russia,Film,6
+Russia,Music,1
+Russia,News,1
+Russia,Nonprofit,1
+Russia,People,3
+Russia,Travel,1
+San Marino,Education,1
+San Marino,Entertainment,1
+San Marino,People,2
+Saudi Arabia,Comedy,1
+Saudi Arabia,Film,1
+Saudi Arabia,Unknown,2
+Serbia,Comedy,1
+Serbia,Entertainment,3
+Serbia,Music,1
+Serbia,People,1
+Singapore,Comedy,1
+Singapore,Entertainment,1
+Singapore,Howto,1
+South Africa,Animals,1
+South Africa,Comedy,1
+South Africa,Education,3
+South Africa,Entertainment,1
+South Africa,Howto,2
+South Africa,Music,2
+South Africa,News,1
+South Africa,Sports,1
+South Korea,Entertainment,3
+South Korea,Film,1
+South Korea,Games,2
+South Korea,Music,6
+South Korea,People,2
+South Korea,Unknown,1
+Spain,Animals,1
+Spain,Education,1
+Spain,Entertainment,2
+Spain,Film,1
+Spain,Games,1
+Spain,Sports,7
+Spain,Tech,1
+Sweden,Animals,1
+Sweden,Comedy,1
+Sweden,Entertainment,1
+Sweden,Games,2
+Sweden,Music,2
+Switzerland,Comedy,1
+Switzerland,Education,1
+Switzerland,Entertainment,1
+Switzerland,Games,1
+Switzerland,People,2
+Switzerland,Sports,4
+Thailand,Entertainment,1
+Tunisia,Music,2
+Tunisia,People,1
+Turkey,Entertainment,6
+Turkey,Film,1
+Turkey,Games,1
+Turkey,Music,1
+Turkey,People,4
+Turkey,Unknown,1
+Ukraine,Comedy,1
+Ukraine,News,2
+Ukraine,People,2
+United Arab Emirates,Education,1
+United Arab Emirates,Entertainment,1
+United Arab Emirates,People,2
+United Kingdom,Autos,3
+United Kingdom,Comedy,1
+United Kingdom,Education,2
+United Kingdom,Entertainment,9
+United Kingdom,Games,6
+United Kingdom,Howto,1
+United Kingdom,Music,13
+United Kingdom,Shows,1
+United Kingdom,Sports,14
+United Kingdom,Tech,1
+United States,Animals,10
+United States,Autos,4
+United States,Comedy,11
+United States,Education,21
+United States,Entertainment,47
+United States,Film,20
+United States,Games,16
+United States,Howto,8
+United States,Music,41
+United States,News,1
+United States,Nonprofit,2
+United States,People,21
+United States,Shows,7
+United States,Sports,24
+United States,Tech,10
+United States,Travel,5
+United States,Unknown,5
+Uruguay,Education,1
+Uruguay,Entertainment,1
+Uruguay,Games,1
+Uruguay,Music,1
+Uruguay,People,1
+Vietnam,Education,3
+Vietnam,Entertainment,1
+Vietnam,People,2
